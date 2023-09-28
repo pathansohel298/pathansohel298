@@ -17,6 +17,7 @@ I am Final year Undergraduate Student at The University of Mumbai, Pursuing my B
 ###
 
 <div align="left">
+  [![An image of @pathansohel298's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pathansohel298)](https://holopin.io/@pathansohel298)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
