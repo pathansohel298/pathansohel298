@@ -5,6 +5,8 @@ I am Final year Undergraduate Student at The University of Mumbai, Pursuing my B
 
 - 💬 I am a History Enthusiast.
 - 😄 Pronouns: He/Him
+
+  [![An image of @pathansohel298's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pathansohel298)](https://holopin.io/@pathansohel298)
   
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
@@ -17,7 +19,6 @@ I am Final year Undergraduate Student at The University of Mumbai, Pursuing my B
 ###
 
 <div align="left">
-  [![An image of @pathansohel298's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pathansohel298)](https://holopin.io/@pathansohel298)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
